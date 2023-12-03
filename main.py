@@ -1,0 +1,15 @@
+from turtle import *
+shape('turtle')
+def fun():
+    color('red', 'blue')
+    begin_fill()
+    forward(100)
+    left(90)
+    forward(100)
+    left(90)
+    forward(100)
+    left(90)
+    forward(100)
+    left(90)
+    end_fill()
+fun()
